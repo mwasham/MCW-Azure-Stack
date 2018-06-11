@@ -84,7 +84,7 @@ Contoso has expressed to FT the need to embrace Microsoft Azure technologies as 
 
 With the goals in mind, Contoso has challenged FT to help use their mortgage application as the first application to be used with Microsoft Azure.
 
-![The Contoso Dallas Data Center diagram shows the flow between Contoso Mortgage customers and Contoso\'s web servers, application servers, and SQL servers.](images/Whiteboarddesignsessiontrainerguide-AzureStackimages/media/image2.jpg "Diagram indicating the customer situation. Shows how data from Contoso mortgage customers moves from public facing web servers to a queue and from there move to application servers and SQL (sequel) servers")
+![The Contoso Dallas Data Center diagram shows the flow between Contoso Mortgage customers and Contoso\'s web servers, application servers, and SQL servers.](images/Whiteboarddesignsessiontrainerguide-AzureStackimages/media/image2.png "Diagram indicating the customer situation. Shows how data from Contoso mortgage customers moves from public facing web servers to a queue and from there move to application servers and SQL (sequel) servers")
 
 ### Customer needs 
 
