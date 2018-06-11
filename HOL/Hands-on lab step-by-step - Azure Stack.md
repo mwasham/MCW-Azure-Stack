@@ -3,7 +3,7 @@
 <div class="MCWHeader1">
 Azure Stack
 </div>
-
+  
 <div class="MCWHeader2">
 Hands-on lab step-by-step
 </div>

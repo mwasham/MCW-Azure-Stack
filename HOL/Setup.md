@@ -4,7 +4,7 @@
 
 -   Microsoft Azure subscription 
 
-
+  
 ## Before the hands-on lab
 
 Duration: 6-7 hours
