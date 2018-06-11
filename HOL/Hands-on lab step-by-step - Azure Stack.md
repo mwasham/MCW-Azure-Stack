@@ -1,4 +1,4 @@
-![](images/HeaderPic.png "Microsoft Cloud Workshops")
+﻿![](images/HeaderPic.png "Microsoft Cloud Workshops")
 
 <div class="MCWHeader1">
 Azure Stack
