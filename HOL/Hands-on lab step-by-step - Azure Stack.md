@@ -1,4 +1,4 @@
-﻿![](images/HeaderPic.png "Microsoft Cloud Workshops")
+﻿![](https://github.com/Microsoft/MCW-Template-Cloud-Workshop/blob/master/Media/ms-cloud-workshop.png?raw=true "Microsoft Cloud Workshops")
 
 <div class="MCWHeader1">
 Azure Stack
